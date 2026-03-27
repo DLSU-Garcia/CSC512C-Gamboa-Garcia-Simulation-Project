@@ -2,9 +2,8 @@
 
 Cache simulation project implementing direct-mapped and set-associative cache architectures with visualization and animation capabilities.
 
-## Authors
-- **Kimberly Klaire H. Gamboa** - kimberly_gamboa@dlsu.edu.ph
-- **Andre Emmanuel S. Garcia** - andre_emmanuel_garcia@dlsu.edu.ph
+
+
 
 ---
 
@@ -268,8 +267,4 @@ This project is developed for academic purposes as part of CSC512C coursework at
 
 ---
 
-## Support
 
-For issues or questions, please contact:
-- **Kimberly Klaire H. Gamboa**: kimberly_gamboa@dlsu.edu.ph
-- **Andre Emmanuel S. Garcia**: andre_emmanuel_garcia@dlsu.edu.ph
