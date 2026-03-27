@@ -2,6 +2,8 @@
 
 Cache simulation project implementing direct-mapped and set-associative cache architectures with visualization and animation capabilities.
 
+For Detailed Analysis Readme File and Video Walkthrough, please check the folders labeled Analysis Readme Files and Video Walkthrough.
+
 
 
 
